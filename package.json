@@ -1,8 +1,8 @@
 {
-  "name": "cantaloupe",
-  "displayName": "Cantaloupe",
-  "description": "",
-  "version": "0.0.1",
+  "name": "cantaloupe-black",
+  "displayName": "Cantaloupe Black",
+  "description": "A Color theme based on colors of cantaloupe and summer night vibe",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cantaloupe",
+        "label": "Cantaloupe Bluish",
         "uiTheme": "vs-dark",
-        "path": "./themes/cantaloupe-color-theme.json"
+        "path": "./themes/cantaloupe black-color-theme.json"
+      },
+      {
+        "label": "Cantaloupe Original",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cantaloupe origin-color-theme.json"
       }
     ]
   }
