@@ -1,9 +1,9 @@
 {
-	"name": "cantaloupe",
+	"name": "cantaloupe black",
 	"colors": {
 		"editor.background": "#0d1017",
 		"editor.foreground": "#cdcece",
-		// "activityBarBadge.background": "#349b4e",
+		
 		"activityBar.activeBorder": "#47d26a",
 		"activityBar.background": "#0d1017",
 		"activityBar.border": "#1e232b",
@@ -63,14 +63,9 @@
 		"list.activeSelectionBackground": "#47526640",
 		"list.activeSelectionForeground": "#bfbdb6",
 		"list.inactiveSelectionBackground": "#47526618",
-		// "list.inactiveSelectionForeground": "#a0e240",
-
-		// "editorOverviewRuler.warningForeground": "#47d26a",
-
-		// "inputOption.activeForeground": "#47d26a", // 뭐지?
+		
 		"inputOption.activeBackground": "#47d26a40",
 		"inputOption.activeBorder": "#47d26a",
-		// "list.highlightForeground": "#47d26a",
 
 		"minimap.background": "#0d1017",
 		"minimap.errorHighlight": "#d95757",
