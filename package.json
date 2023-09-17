@@ -20,6 +20,11 @@
         "label": "Cantaloupe Original",
         "uiTheme": "vs-dark",
         "path": "./themes/cantaloupe origin-color-theme.json"
+      },
+      {
+        "label": "Cantaloupe Rebuilt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cantaloupe rebuilt-color-theme.json"
       }
     ]
   }
