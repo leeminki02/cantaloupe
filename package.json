@@ -1,8 +1,13 @@
 {
-  "name": "cantaloupe-black",
-  "displayName": "Cantaloupe Black",
+  "name": "cantaloupe",
+  "displayName": "Cantaloupe",
   "description": "A Color theme based on colors of cantaloupe and summer night vibe",
-  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leeminki02/cantaloupe.git"
+  },
+  "publisher": "minkilee",
+  "version": "0.3.0",
   "engines": {
     "vscode": "^1.78.0"
   },
