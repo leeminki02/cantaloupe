@@ -1,11 +1,11 @@
 {
 	"name": "cantaloupe rebuilt",
 	"colors": {
-		"editor.background": "#0d1017",
+		"editor.background": "#1a1b1e",
 		"editor.foreground": "#cdcece",
 		// "activityBarBadge.background": "#349b4e",
 		"activityBar.activeBorder": "#6dc0db",
-		"activityBar.background": "#0d1017",
+		"activityBar.background": "#1a1b1e",
 		"activityBar.border": "#1e232b",
 		"activityBar.foreground": "#565b66cc",
 		"activityBar.inactiveForeground": "#56665899",
@@ -15,8 +15,8 @@
 		"badge.background": "#6dc0db33",
 		"badge.foreground": "#6dc0db",
 		"button.background": "#6dc0db",
-		"button.foreground": "#0d1017",
-		"button.hoverBackground": "#3fdf67",
+		"button.foreground": "#1a1b1e",
+		"button.hoverBackground": "#77d4f3",
 		"button.secondaryBackground": "#66565633",
 		"button.secondaryForeground": "#bfbdb6",
 		"button.secondaryHoverBackground": "#565b6680",
@@ -41,7 +41,7 @@
 		"diffEditor.insertedTextBackground": "#7fd9621f",
 		"diffEditor.removedTextBackground": "#f26d781f",
 
-		"dropdown.background": "#0d1017",
+		"dropdown.background": "#1a1b1e",
 		"dropdown.border": "#565b6645",
 		"dropdown.foreground": "#565b66",
 
@@ -72,7 +72,7 @@
 		"inputOption.activeBorder": "#6dc0db",
 		// "list.highlightForeground": "#6dc0db",
 
-		"minimap.background": "#0d1017",
+		"minimap.background": "#1a1b1e",
 		"minimap.errorHighlight": "#d95757",
 		"minimap.findMatchHighlight": "#6c5980",
 		"minimap.selectionHighlight": "#409fff4d",
@@ -156,7 +156,7 @@
 		"statusBar.background": "#0b0e14",
 		"statusBar.border": "#1e232b",
 		"statusBar.debuggingBackground": "#ebf268",
-		"statusBar.debuggingForeground": "#0d1017",
+		"statusBar.debuggingForeground": "#1a1b1e",
 		"statusBar.foreground": "#565b66",
 		"statusBar.noFolderBackground": "#0f131a",
 		"statusBarItem.activeBackground": "#56665933",
