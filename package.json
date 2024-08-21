@@ -7,7 +7,7 @@
     "url": "https://github.com/leeminki02/cantaloupe.git"
   },
   "publisher": "minkilee",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "engines": {
     "vscode": "^1.78.0"
   },
